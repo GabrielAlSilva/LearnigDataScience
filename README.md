@@ -1,2 +1,2 @@
-# LearnigDataScience
+# LearningDataScience
 A repository for my personal learning in Data Science.
